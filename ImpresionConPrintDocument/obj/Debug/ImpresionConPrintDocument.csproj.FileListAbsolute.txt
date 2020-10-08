@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\ImpresionConPrintDocument.exe.config
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\ImpresionConPrintDocument.exe
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\ImpresionConPrintDocument.pdb
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.Form1.resources
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.exe
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.pdb
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\itextsharp.dll
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\itextsharp.xml
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\obj\Debug\ImpresionConPrintDocument.csproj.CopyComplete
+C:\Users\Usuario\source\repos\ImpresionConPrintDocument\ImpresionConPrintDocument\bin\Debug\Zen.Barcode.Core.dll
